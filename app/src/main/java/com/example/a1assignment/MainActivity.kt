@@ -177,7 +177,6 @@ fun Card(modifier: Modifier = Modifier) {
             }
         }
     }
-
 }
 
 @Preview(showBackground = true)
